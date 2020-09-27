@@ -1,4 +1,5 @@
 Some text
 Modifed from master;
 Changes from second;
+Not write changes;
 
