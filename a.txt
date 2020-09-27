@@ -1,3 +1,4 @@
 Some text
-dified from master
+Modifed from master;
+Changes from second;
 
